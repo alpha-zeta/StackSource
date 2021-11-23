@@ -1,0 +1,25 @@
+{
+    "name":"StackSource",
+    "description":"A chrome extension for querying on stackoverflow easily from anywhere.",
+    "version":"0.0.1",
+    "homepage_url":"",
+    "author":"Anish Majhi",
+    "manifest_version":2,
+    "browser_action":{
+        "default_icon":"img/icon.png",
+        "default_title":"StackSource",
+        "default_popup":"popup.html"
+    },
+    "icons":{
+        "128":"img/icon.png"
+    },
+    "commands":{
+        "_execute_browser_action": {
+            "suggested_key": {
+                "windows": "Ctrl+Shift+Y",
+                "linux": "Ctrl+Shift+Y"
+            }
+        }
+    },
+    "permissions":["activeTab"]
+}
