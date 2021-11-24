@@ -2,7 +2,7 @@
     "name":"StackSource",
     "description":"A chrome extension for querying on stackoverflow easily from anywhere.",
     "version":"0.0.1",
-    "homepage_url":"",
+    "homepage_url":"https://github.com/alpha-zeta/StackSource",
     "author":"Anish Majhi",
     "manifest_version":2,
     "browser_action":{
@@ -16,10 +16,14 @@
     "commands":{
         "_execute_browser_action": {
             "suggested_key": {
-                "windows": "Ctrl+Shift+Y",
-                "linux": "Ctrl+Shift+Y"
+                "windows": "Ctrl+Y",
+                "linux": "Ctrl+Y"
             }
         }
     },
-    "permissions":["activeTab"]
+    "permissions":["tabs"],
+    "web_accessible_resources": [
+        "lib/index.js"
+      ]
+    
 }

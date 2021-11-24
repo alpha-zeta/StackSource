@@ -4,13 +4,26 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>StackSource</title>
     <link rel="stylesheet" href="css/styles.css" />
   </head>
   <body>
     <div class="container">
-      <p id="par">Hello</p>
+      <form id="searchForm" action="">
+        <div class="form-group">
+          <label for="query" id="queryLabel">Search in StackOverflow</label>
+          <input
+            type="search"
+            class="form-control"
+            id="query"
+            placeholder="Enter query"
+          />
+        </div>
+        <button type="submit" id="searchBtn" class="btn btn-primary">
+          Search
+        </button>
+      </form>
     </div>
-    <script src="lib/index.js" />
+    <script src="lib/index.js"></script>
   </body>
 </html>
