@@ -1,12 +1,12 @@
-<center>
+<div align="div align="center"">
 <img src="img/icon.png" style="margin-right:10px;" width="128" />
 <h1>StackSource</h1>
 <h4>Your freind in arms against the world of overflowing stacks</h4>
-</center>
+</div>
 
 ---
 
-<p align="center">
+<p align="center"">
   <a href = "https://github.com/alpha-zeta/StackSource/releases/">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alpha-zeta/StackSource">
   </a>
@@ -21,9 +21,9 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/alpha-zeta/StackSource">
   </a>
 </p>
-<center>
+<div align="center">
 <img src="https://res.cloudinary.com/nerdbard/image/upload/v1638013139/demo_gif_better_h4yh5n.gif" alt="Demo" width="600" />
-</center>
+</div>
 <br />
 This is a chrome extension which helps you to search in the stackoverflow from anywhere on the browser. Just open the extension and start typing.
 
@@ -41,15 +41,15 @@ This is a chrome extension which helps you to search in the stackoverflow from a
 - Open Chrome, go to settings->Extensions or just got to this link [[chrome://extensions/](chrome://extensions/)]. 
 - turn on **Developer mode**, found on the top right corner of the page.
   <br />
-  <center><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/developer_on_djimjx.png" alt="Developer mode turned on" width="300" /></center>
+  <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/developer_on_djimjx.png" alt="Developer mode turned on" width="300" /></div>
   <br />
 - Select **Load unpacked** from top left corner.
   <br />
-  <center><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/load_unpacked_ejazvn.png" alt="Developer mode turned on" width="300" /></center>
+  <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/load_unpacked_ejazvn.png" alt="Developer mode turned on" width="300" /></div>
   <br />
 - Select the **StackSource** folder.
   <br />
-  <center><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/select_folder_rv0nhu.png" alt="Select the folder" width="500" /></center>
+  <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/select_folder_rv0nhu.png" alt="Select the folder" width="500" /></div>
   
 Now you should be able to see the StackSource extension available in the extensions menu and also in the extension shortcut beside the searchbar
 
@@ -84,7 +84,7 @@ Now you should be able to see the StackSource extension available in the extensi
 
 ---
 
-> <center>Thanks for downloading. Feel free to contribute 😁.</center>
+> <div align="center">Thanks for downloading. Feel free to contribute 😁.</div>
 
 <p align="center">
   <a href="https://github.com/alpha-zeta">
