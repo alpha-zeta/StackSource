@@ -26,6 +26,7 @@
 </div>
 
 
+<br>
 This is a chrome extension which helps you to search in the stackoverflow from anywhere on the browser. Just open the extension and start typing.
 
 ## Why would you use it
@@ -41,6 +42,7 @@ This is a chrome extension which helps you to search in the stackoverflow from a
   ```
 - Open Chrome, go to settings->Extensions or just open this link in Chrome `chrome://extensions/`. 
 - turn on **Developer mode**, found on the top right corner of the page.
+  
   <br>
   <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/developer_on_djimjx.png" alt="Developer mode turned on" width="300" /></div>
   <br>
