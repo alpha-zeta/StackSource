@@ -15,7 +15,7 @@
   </a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alpha-zeta/StackSource">
   <a href = "./LICENSE.md">
-    <img alt="License" src="https://img.shields.io/github/license/alpha-zeta/StackSource">
+    <img alt="License" src="https://img.shields.io/github/license/alpha-zeta/StackSource?label=license">
   </a>
   <a href="https://github.com/alpha-zeta/StackSource/issues/">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/alpha-zeta/StackSource">
