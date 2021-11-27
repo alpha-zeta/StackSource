@@ -1,4 +1,4 @@
-<div align="div align="center"">
+<div align="center"">
 <img src="img/icon.png" style="margin-right:10px;" width="128" />
 <h1>StackSource</h1>
 <h4>Your freind in arms against the world of overflowing stacks</h4>
