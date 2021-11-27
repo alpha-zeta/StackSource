@@ -16,13 +16,18 @@
             type="search"
             class="form-control"
             id="query"
-            placeholder="Enter query"
+            placeholder="Enter query..."
+            spellcheck="false"
           />
         </div>
         <button type="submit" id="searchBtn" class="btn btn-primary">
           Search
         </button>
+        <div id="result"></div>
       </form>
+      <div id="response">
+        <p id="placeHolder">Your results will be shown here</p>
+      </div>
     </div>
     <script src="lib/index.js"></script>
   </body>
