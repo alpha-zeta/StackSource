@@ -24,7 +24,8 @@
 <div align="center">
 <img src="https://res.cloudinary.com/nerdbard/image/upload/v1638013139/demo_gif_better_h4yh5n.gif" alt="Demo" width="600" />
 </div>
-<br>
+
+
 This is a chrome extension which helps you to search in the stackoverflow from anywhere on the browser. Just open the extension and start typing.
 
 ## Why would you use it
