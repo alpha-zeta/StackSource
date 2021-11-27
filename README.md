@@ -24,7 +24,7 @@
 <div align="center">
 <img src="https://res.cloudinary.com/nerdbard/image/upload/v1638013139/demo_gif_better_h4yh5n.gif" alt="Demo" width="600" />
 </div>
-<br />
+<br>
 This is a chrome extension which helps you to search in the stackoverflow from anywhere on the browser. Just open the extension and start typing.
 
 ## Why would you use it
@@ -34,21 +34,21 @@ This is a chrome extension which helps you to search in the stackoverflow from a
 - Works on any platform(Windows, Mac, Linux) given that you have a browser that supports Chrome extensions(preferably [Google Chrome](https://www.google.com/intl/en_in/chrome/)).
 ## Instructions for installing
 
-- Download the zip and extract the folder or clone the **StackSource** folder.
+- [Download](https://github.com/alpha-zeta/StackSource/archive/refs/heads/master.zip) and unzip or clone the **StackSource** repository.
    ```bash
   git clone https://github.com/alpha-zeta/StackSource.git
   ```
-- Open Chrome, go to settings->Extensions or just got to this link [[chrome://extensions/](chrome://extensions/)]. 
+- Open Chrome, go to settings->Extensions or just open this link in Chrome `chrome://extensions/`. 
 - turn on **Developer mode**, found on the top right corner of the page.
-  <br />
+  <br>
   <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/developer_on_djimjx.png" alt="Developer mode turned on" width="300" /></div>
-  <br />
+  <br>
 - Select **Load unpacked** from top left corner.
-  <br />
+  <br>
   <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/load_unpacked_ejazvn.png" alt="Developer mode turned on" width="300" /></div>
-  <br />
+  <br>
 - Select the **StackSource** folder.
-  <br />
+  <br>
   <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/select_folder_rv0nhu.png" alt="Select the folder" width="500" /></div>
   
 Now you should be able to see the StackSource extension available in the extensions menu and also in the extension shortcut beside the searchbar
