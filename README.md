@@ -25,7 +25,6 @@
 <img src="https://res.cloudinary.com/nerdbard/image/upload/v1638013139/demo_gif_better_h4yh5n.gif" alt="Demo" width="600" />
 </div>
 
-
 <br>
 This is a chrome extension which helps you to search in the stackoverflow from anywhere on the browser. Just open the extension and start typing.
 
@@ -47,10 +46,12 @@ This is a chrome extension which helps you to search in the stackoverflow from a
   <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/developer_on_djimjx.png" alt="Developer mode turned on" width="300" /></div>
   <br>
 - Select **Load unpacked** from top left corner.
+  
   <br>
   <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/load_unpacked_ejazvn.png" alt="Developer mode turned on" width="300" /></div>
   <br>
 - Select the **StackSource** folder.
+  
   <br>
   <div align="center"><img src="https://res.cloudinary.com/nerdbard/image/upload/v1638016118/select_folder_rv0nhu.png" alt="Select the folder" width="500" /></div>
   
